@@ -1,0 +1,2 @@
+Hallo Welt!
+Das ist eine neue Datei, die ich direkt auf GitHub erstellt habe.
